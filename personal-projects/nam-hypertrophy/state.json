@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "project_id": "a4053525797e4c50b42a1129c95750bf",
+  "toolkit_version": "1.0.0",
+  "active_program": "programs/program-001.md",
+  "active_revision": 1,
+  "pending_program": null,
+  "pending_revision": null,
+  "latest_checkin": null,
+  "next_checkin": "2026-09-23",
+  "temporary_changes": [
+    {
+      "id": "change-001",
+      "file": "changes/change-001.md",
+      "starts_on": "2026-09-16",
+      "ends_on": "2026-10-07",
+      "status": "active",
+      "return_condition": "Triệu chứng về mức nền trong 24 giờ ở nhiệm vụ liên quan, liên tục 2 tuần. Gỡ từng mục một. Không tự khôi phục vì hết ngày."
+    }
+  ],
+  "exports": [
+    {
+      "file": "exports/program-001-r1-2026-09-17.docx",
+      "program": "programs/program-001.md",
+      "revision": 1,
+      "created_on": "2026-09-17",
+      "status": "stale"
+    }
+  ]
+}

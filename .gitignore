@@ -1,0 +1,6 @@
+# Word temp files
+~$*
+
+# Office temp
+*.tmp
+*.swp

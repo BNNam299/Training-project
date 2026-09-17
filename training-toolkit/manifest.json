@@ -1,0 +1,173 @@
+{
+  "version": "1.0.0",
+  "schema_version": 1,
+  "knowledge_chapters": [
+    "17-nen-tang-lap-chuong-trinh-va-dieu-chinh.md",
+    "18-dinh-duong-va-dieu-chinh-theo-muc-tieu.md",
+    "19-sang-loc-va-dinh-huong-chan-doan.md",
+    "20-rehab-chi-duoi-va-tro-lai-van-dong.md",
+    "21-rehab-lung-vai-khuyu-va-chan-doan-phan-biet.md",
+    "22-van-dong-sinh-hoat-hoi-phuc-va-lao-hoa.md",
+    "23-bo-quy-tac-dieu-chinh-va-mau-dau-ra.md",
+    "24-ma-tran-nguon-va-kiem-chung.md",
+    "25-doi-chieu-mau-thuan-va-khoang-trong.md",
+    "26-chon-bai-tap-va-bien-the-theo-muc-tieu.md",
+    "27-ca-nhan-hoa-nam-nu-va-chu-ky-kinh-nguyet.md",
+    "28-tiep-nhan-tai-nguyen-va-doi-chieu.md"
+  ],
+  "source_files": [
+    {
+      "path": "references/00-README-MUC-LUC.md",
+      "sha256": "9fccc5e973a291f04ee3c8e4750c68c88c3c3e8123c3c52d6d05c25e00ec5055"
+    },
+    {
+      "path": "references/01-nen-tang-va-nguyen-ly.md",
+      "sha256": "45f8d51cbd74da2c3fefef3c1b0c96a48ef85e4fc7b6ace31a7255d9b973e7e8"
+    },
+    {
+      "path": "references/02-ky-thuat-squat.md",
+      "sha256": "ae5357faebea6e7293a2f9612e6ded39ef190dfc87aac1b02b9a2bf7769f2c56"
+    },
+    {
+      "path": "references/03-squat-myths.md",
+      "sha256": "16bc08c06e602b2f364f917f38625685cee991de0b0cc0097d2872daf690644b"
+    },
+    {
+      "path": "references/04-mobility.md",
+      "sha256": "4cfdb5e0c83e09a646fa94c12427d200d15e6fc76609560081f22ac4d97982d3"
+    },
+    {
+      "path": "references/05-core-stability.md",
+      "sha256": "ada0116cdced1e69f049d699cb9ea5d50014c53bb1ea378fa07d54c9a8b392da"
+    },
+    {
+      "path": "references/06-dau-lung-duoi.md",
+      "sha256": "9b654646beb6152ffe8344281c21289daf2885609d9e3db3544bd70d1127d9b7"
+    },
+    {
+      "path": "references/07-dau-dau-goi.md",
+      "sha256": "6391ca4d3c3fe125dd8afa69fc23952cc0f70e5b8f25ee216320a1b744d3a107"
+    },
+    {
+      "path": "references/08-dau-hong-ben-hamstring.md",
+      "sha256": "fb5ce6e467b2638caf8ddd16c44aa0d2ddbec8ded517fef4bda7dc60c450a089"
+    },
+    {
+      "path": "references/09-vai-va-khuyu-tay.md",
+      "sha256": "4296b432e118f3bb76771e24cf6a693f99855d4ab380d4e1773d96433f62fe58"
+    },
+    {
+      "path": "references/10-ban-chan-va-achilles.md",
+      "sha256": "169d9d2f910ae0a4fd8846ff6770d34ccb5363b9dc3e2d7022d1a27359ba5e51"
+    },
+    {
+      "path": "references/11-phu-kien-va-dung-cu.md",
+      "sha256": "337636f9718e9187fc1e6cdb1d331ad472bb4632b1bac0353f3a1e98708df3fe"
+    },
+    {
+      "path": "references/12-deadlift-hoi-phuc-va-chu-de-khac.md",
+      "sha256": "932bc65e5f76b0c25a8fbdf5068f48600ee8f4d7864dec7685b503035cc65825"
+    },
+    {
+      "path": "references/13-xay-dung-chuong-trinh-hypertrophy-cho-powerlifter.md",
+      "sha256": "52bf92bc3a9d024b68428119a9d67cff34325d9956065d61fc65c74ff7f0192a"
+    },
+    {
+      "path": "references/14-rehab-stability-mobility-va-su-linh-hoat-khi-ve-gia.md",
+      "sha256": "d26a688dd35c3ac85b11b782dd91b946c8715c8f51df542539241147c90d2b73"
+    },
+    {
+      "path": "references/15-ket-hop-rehab-mobility-stability-vao-lichtap.md",
+      "sha256": "4a3885faec1690abd40899c1e626e88734f82d72dffbdc369852bd170ce52b3a"
+    },
+    {
+      "path": "references/16-tong-hop-tai-nguyen.md",
+      "sha256": "f7af1736fe2056681f10c8b4949bfff460f212d70ed7e2b52791763d5ce3a3c3"
+    },
+    {
+      "path": "references/17-nen-tang-lap-chuong-trinh-va-dieu-chinh.md",
+      "sha256": "deafdd6eb4c70bef59488036b9f0486f920124b0d401f2988c9ad563fa6b815e"
+    },
+    {
+      "path": "references/18-dinh-duong-va-dieu-chinh-theo-muc-tieu.md",
+      "sha256": "f0e24860065ce2cfa72eea2b56e7c5a48e22778492e65099320083f077224f2c"
+    },
+    {
+      "path": "references/19-sang-loc-va-dinh-huong-chan-doan.md",
+      "sha256": "4671d737897acedca68ce44bbc1ff4d10bb22a3b793270a54e326e197607f512"
+    },
+    {
+      "path": "references/20-rehab-chi-duoi-va-tro-lai-van-dong.md",
+      "sha256": "c0d337cb4cec77802ef070f36603a164b92158a4d0d24a4c6762095dc1bea11d"
+    },
+    {
+      "path": "references/21-rehab-lung-vai-khuyu-va-chan-doan-phan-biet.md",
+      "sha256": "7d04a2df25e6a43c018a718f29b11b4fc4b90f1a1017cdedda222d1dc245fcbd"
+    },
+    {
+      "path": "references/22-van-dong-sinh-hoat-hoi-phuc-va-lao-hoa.md",
+      "sha256": "9bb3dbd0973c1ba163b046dfd7c07e94dde469f681ae5d69c36adcaaf0891382"
+    },
+    {
+      "path": "references/23-bo-quy-tac-dieu-chinh-va-mau-dau-ra.md",
+      "sha256": "d63e57968f7726fd3bb060dc5c93a79e0028f009f7f2123bb5ce683d3cfd457f"
+    },
+    {
+      "path": "references/24-ma-tran-nguon-va-kiem-chung.md",
+      "sha256": "a884b7701a2cc522b8c8afba7fe160521d11d3b61bd3237472eaf41a78c2d536"
+    },
+    {
+      "path": "references/25-doi-chieu-mau-thuan-va-khoang-trong.md",
+      "sha256": "4c04b2602f4162fa1bef554a17c37b18b41ce1a9eea256fc7aa4bd8516c1da0c"
+    },
+    {
+      "path": "references/26-chon-bai-tap-va-bien-the-theo-muc-tieu.md",
+      "sha256": "46e7f3630e3473262bc71058d33bb06f8907e906ce3abc36c5acf166e7cfd0c7"
+    },
+    {
+      "path": "references/27-ca-nhan-hoa-nam-nu-va-chu-ky-kinh-nguyet.md",
+      "sha256": "aa52edaa9b88edb01dab364bef8240328036cde607bab0c08ce509c4416ec667"
+    },
+    {
+      "path": "references/28-tiep-nhan-tai-nguyen-va-doi-chieu.md",
+      "sha256": "83cc9d6bbe5032104f1dc94e297b1200c71c5ddf9c659a4521c495f20e93c314"
+    },
+    {
+      "path": "references/29-brief-toolkit-agent.md",
+      "sha256": "f12d44d0ad133f30b24747bf36dcdb366e18fb9c00a0c0f8b8c136b9d77d7bf0"
+    },
+    {
+      "path": "references/tai-nguyen-nguoi-dung/2026-09-15/U01-instruction-ai.md",
+      "sha256": "892d6e08bcfdf0e39dda7a21f2b6aefddf2534556a870cc53657ac41b372b0f7"
+    },
+    {
+      "path": "references/tai-nguyen-nguoi-dung/2026-09-15/U02-best-exercises.md",
+      "sha256": "8115b14ad932999d4807868fb681cc604e89c1de61237d4921388a734190513f"
+    },
+    {
+      "path": "references/tai-nguyen-nguoi-dung/2026-09-15/U03-male-female-adaptations.md",
+      "sha256": "d091f4659c23b6085bb39600d38e1f14f9a0db07c7e9ec03b8e5a3667e43e164"
+    },
+    {
+      "path": "references/tai-nguyen-nguoi-dung/2026-09-15/U04-transcript-male-female.md",
+      "sha256": "b2880d9296f838f81de1ea38e4ca3d7824b33b2e6aad46f2d42745d3d1e7eb82"
+    },
+    {
+      "path": "references/tai-nguyen-nguoi-dung/2026-09-15/U05-co-sinh-hoc.md",
+      "sha256": "8b6c8a6cbb62d3f9a3c6c14ac40d23140f1e16fa12ebbe580de814d4ac401de9"
+    },
+    {
+      "path": "references/tai-nguyen-nguoi-dung/2026-09-15/U06-lap-trinh-chu-ky-hoa.md",
+      "sha256": "0dabe085851407113ca1dbef71f6549295169ea74b6be8f89f974acadb56e42e"
+    },
+    {
+      "path": "references/tai-nguyen-nguoi-dung/2026-09-15/U07-rehab-chan-thuong.md",
+      "sha256": "be6ac6ccfbc716b91b9383dee550e6055d0ec71d0c87d330848e7c970ea7effc"
+    },
+    {
+      "path": "references/tai-nguyen-nguoi-dung/2026-09-15/U08-hypertrophy-toi-gian.md",
+      "sha256": "fbd454a93d1e38e3c9273904ce13656544686f22e1e3a959f7a625395452b0cf"
+    }
+  ],
+  "knowledge_sha256": "603a37dfd9b911f54950962a5df28f416577b075d864797dff48cbcab3b28a8c"
+}
